@@ -175,7 +175,7 @@ function PhotoStage() {
         ${html}
         ${!hasSel && !detecting ? `<div class="empty-stage-msg">
             <h4>Choose a jewellery piece to start styling.</h4>
-            <p>Select earrings, a nose ring or a maang tikka from the catalogue.</p>
+            <p>Select earrings or a maang tikka from the catalogue.</p>
           </div>` : ''}
         ${detecting ? `<div class="detect-overlay"><div class="spinner"></div>
             <p>Reading this photo's landmarks…</p></div>` : ''}

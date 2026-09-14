@@ -5,7 +5,6 @@
 
 export const CATEGORIES = [
   { id: 'earrings',    label: 'Earrings',    emoji: '👂', anchor: 'ears' },
-  { id: 'nose-ring',   label: 'Nose Ring',   emoji: '👃', anchor: 'nose' },
   { id: 'maang-tikka', label: 'Maang Tikka', emoji: '👑', anchor: 'forehead' },
 ];
 

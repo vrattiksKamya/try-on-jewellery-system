@@ -21,7 +21,6 @@ There are no fixed coordinates anywhere. The pipeline is:
 |---|---|---|
 | Earrings | ears | FaceMesh 234 / 454 walked down to the lobe, each side placed independently |
 | Maang tikka | forehead | FaceMesh 10 + centreline 168 |
-| Nose ring | nose | FaceMesh 1 |
 
 Every piece hangs off the face, so only FaceMesh is loaded — the pose and hand
 solutions are skipped entirely.
