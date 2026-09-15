@@ -23,13 +23,7 @@ export const PRODUCTS = [
     tryOnAsset: { left: 'assets/tryon/earring_2_L.png', right: 'assets/tryon/earring_2_R.png' },
     anchor: 'ears', offsetX: 0, offsetY: 0, scaleMultiplier: 1.0,
   },
-  {
-    id: 'earring-003', name: 'Crimson Pear Drop Earrings', category: 'earrings',
-    price: 74999, description: 'A pavé-set diamond stud suspending a deep crimson pear-cut stone.',
-    catalogImage: 'assets/catalog/earring_3.jpg',
-    tryOnAsset: { left: 'assets/tryon/earring_3_L.png', right: 'assets/tryon/earring_3_R.png' },
-    anchor: 'ears', offsetX: 0, offsetY: 0, scaleMultiplier: 1.0, popular: true,
-  },
+  
   {
     id: 'earring-004', name: 'Ruby Halo Teardrop Earrings', category: 'earrings',
     price: 89999, description: 'Twin ruby-toned pears wrapped in a brilliant halo on warm gold.',
